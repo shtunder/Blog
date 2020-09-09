@@ -6,7 +6,7 @@
 
 ![blogAdd](https://github.com/shtunder/Blog/blob/master/blogEdit.png)
 
-Website creation
+**Website creation**
 - [x] Stage 1: Home page
 
    The main controller was created, and templates were added to display information to the user. Bootstrap styles are enabled.
