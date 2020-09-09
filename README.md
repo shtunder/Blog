@@ -1,5 +1,11 @@
 # Blog in Java Spring Boot
 
+![blog](https://github.com/shtunder/Blog/blob/master/blog.png)
+
+![blogAdd](https://github.com/shtunder/Blog/blob/master/blogAdd.png)
+
+![blogAdd](https://github.com/shtunder/Blog/blob/master/blogEdit.png)
+
 Website creation
 - [x] Stage 1: Home page
 
